@@ -1,0 +1,3 @@
+name: T001
+version: '${project.version}'
+main: com.tohu.t001.T001
